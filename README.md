@@ -18,13 +18,6 @@
 
 <picture><img src="https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif" width=250px align="right"></picture> 
 
-<br>
-
-- 💻 Front-end developer for 4 years
-- 👦19 years old
-- 🇧🇷 Brazillian Guy
-- 🎉Fun facts: ⚽🏐🏓🥋🎮🎵📽️🍕🍔🛩️
-
 <br><br>
 
 ## Tech Stack
