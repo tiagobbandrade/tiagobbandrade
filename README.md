@@ -14,8 +14,6 @@
 
 <br><br>
 
-## About Me
-
 <picture><img src="https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif" width=250px align="right"></picture> 
 
 <br><br>
